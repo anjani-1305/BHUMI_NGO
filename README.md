@@ -1,4 +1,4 @@
-# Team-15: Reactful Djangos
+
 
 Bhumi NGO Website: Empowering Connections, Inspiring Actions
 
