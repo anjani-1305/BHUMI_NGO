@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.49e702ac.css",
-    "main.js": "/static/js/main.6bb859df.js",
+    "main.css": "/static/css/main.8287f880.css",
+    "main.js": "/static/js/main.6179a591.js",
     "static/media/contactus.jpeg": "/static/media/contactus.b6d2c9196210730fcca4.jpeg",
     "static/media/Ourwork.jpg": "/static/media/Ourwork.1f1f76deb4e309cc77ee.jpg",
     "static/media/SeedBallP.jpg": "/static/media/SeedBallP.477502a4c9dd2e7dfa1d.jpg",
@@ -12,11 +12,11 @@
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.49e702ac.css.map": "/static/css/main.49e702ac.css.map",
-    "main.6bb859df.js.map": "/static/js/main.6bb859df.js.map"
+    "main.8287f880.css.map": "/static/css/main.8287f880.css.map",
+    "main.6179a591.js.map": "/static/js/main.6179a591.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e702ac.css",
-    "static/js/main.6bb859df.js"
+    "static/css/main.8287f880.css",
+    "static/js/main.6179a591.js"
   ]
 }

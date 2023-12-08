@@ -8,7 +8,6 @@ export default function Example({ close }) {
   const [lname, setLname] = useState("");
   const [mobile, setMobile] = useState("");
   const [email, setEmail] = useState("");
-
   const [location, setLocation] = useState("");
   const [whatsapp_consent, setWhatsapp_consent] = useState(false);
   const [newsletter_consent, setNewsletter_consent] = useState(false);
@@ -352,7 +351,7 @@ export default function Example({ close }) {
                           htmlFor="newsletter-consent"
                           className="font-medium text-gray-900 ml-1"
                         >
-                          Newsletter
+                          Newslettenor
                         </label>
                       </div>
                     </div>
