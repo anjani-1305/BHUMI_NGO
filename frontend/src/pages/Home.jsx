@@ -26,7 +26,7 @@ export default function Example() {
 
   const carouselImages = [
     "https://i0.wp.com/give.do/blog/wp-content/uploads/2021/11/Education-top-10-blog-banner.jpg?fit=1200%2C675&ssl=1",
-    "https://blfindia.org/assets/images/all/aboutus.jpg",
+    "https://www.smilefoundationindia.org/blog/wp-content/uploads/2022/11/152533069_4305230916167510_8344033647187796104_o-1-768x576.jpg",
     "https://media.gettyimages.com/id/613253596/photo/group-of-happy-gypsy-indian-children-desert-village-india.jpg?s=612x612&w=gi&k=20&c=xcHn3bTaaHWHjfJPVrqwz3Asq3SIyhQD6wFrJCK22zg=",
   ];
 
